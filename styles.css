@@ -1,0 +1,93 @@
+a.link1{
+    font-family: 'DotGothic16', sans-serif;
+    color: #ffa500;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    
+}
+
+span.cv{
+    
+
+}
+
+hr {
+    color: white;
+}
+
+body{
+    background-color: #add8e6;
+}
+
+div.div1{
+    background-color: #a52a2a;
+}
+
+div.div2{
+    background-color: #ffa500;
+    text-align: center;
+}
+
+div.div3{
+    background-color: white;
+    text-align: right;
+}
+
+div.div4{
+    background-color: #ffc0cb;
+    text-align: right;
+}
+
+div.div5{
+    background-color: white;
+}
+
+img.img1{
+    width: 150px;
+    height: 100px;
+    text-align: left;
+    vertical-align: top;
+}
+
+img.img2{
+    width: 150px;
+    height: 100px;
+}
+
+img.img3{
+    width: 150px;
+    height: 100px;
+}
+
+p.p1 {
+    color: blue;
+    text-align: center;
+}
+
+span.nombre{
+    color: red;
+}
+
+span.desc{
+    color: blue;
+}
+
+div.formulario{
+    background-color: white;
+}
+
+div.formulario2{
+   background-color: #ffa07a; 
+}
+
+div.div6{
+    background-color: blue;
+    color: white;
+   
+}
+
+div.div0{
+    text-align: center;
+    
+}
+
